@@ -92,3 +92,9 @@ Most of the projects I have done, have been programmed in a variate of languages
 <!-- Stats by: https://github.com/anuraghazra -->
 
 📩 If you want to know more about my work, feel free to contact me. 
+<br/>
+
+[![Twitter: pabloadell](https://img.shields.io/twitter/follow/adell13pablo?style=social)](https://twitter.com/adell13pablo)
+[![Linkedin: pabloadell](https://img.shields.io/badge/-pabloadell-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-adell-4b0476111/)](https://www.linkedin.com/in/pablo-adell-4b0476111/)
+<a href="mailto:adell13pablo@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
