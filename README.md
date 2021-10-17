@@ -1,9 +1,8 @@
 # Glad to see you around! What's up? <img src="https://user-images.githubusercontent.com/75724798/137638559-e1ecfc51-08ee-4ae7-8912-9a2211e78023.gif" width="30px">
 
 ## @Me, @myself and @I
-👋 Hi, I’m Pablo Adell but people also call Pabs. 
-<p>Software Engineer at @Affirm.</p>
-<p>Normally I would say my job title and my experience but I would rather say that I am really into motorbikes 🏍️. What is life if you can't rush it a bit? 😜</p>
+Hi, I’m Pablo Adell but people also call Pabs. 💃  - Software Engineer at @Affirm
+<p>Normally I would tell you my hobbies, what I like, my years of experience ... but I would rather say that I am really into motorbikes 🏍️. What is life if you can't rush it a bit? 😜</p>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/adell13pablo?style=social)](https://twitter.com/adell13pablo)
 [![Linkedin: pabloadell](https://img.shields.io/badge/-pabloadell-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-adell-4b0476111/)](https://www.linkedin.com/in/pablo-adell-4b0476111/)
@@ -70,10 +69,10 @@ Most of the projects I have done, have been programmed in a variate of languages
   <br/>
   <div style="text-align:center">
     <a href="https://github.com/anuraghazra/github-readme-stats" style="margin-right:121em">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloadell&layout=compact&theme=tokyonight&langs_count=3&hide=c%2B%2B"  />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloadell&layout=compact&theme=tokyonight&langs_count=3&hide=c%2B%2B"  height="165" >
     </a>
     <a href="https://github.com/anuraghazra/convoychat">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=pabloadell&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&custom_title=Pavs%20Github%20Stats" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=pabloadell&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&custom_title=Pavs%20Github%20Stats" height="165" />
     </a>
   </div>
 
