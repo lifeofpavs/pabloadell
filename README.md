@@ -1,7 +1,7 @@
 # Glad to see you around! What's up? <img src="https://user-images.githubusercontent.com/75724798/137638559-e1ecfc51-08ee-4ae7-8912-9a2211e78023.gif" width="30px">
 
 ## @Me, @myself and @I
-Hi, I’m Pablo Adell but people also call Pabs. 💃  - Software Engineer at @Affirm
+Hi, I’m Pablo Adell but people also call me Pabs. 💃  - Software Engineer at @Affirm
 <p>Normally I would tell you my hobbies, what I like, my years of experience ... but I would rather say that I am really into motorbikes 🏍️. What is life if you can't rush it a bit? 😜</p>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/adell13pablo?style=social)](https://twitter.com/adell13pablo)
