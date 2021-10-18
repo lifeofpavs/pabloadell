@@ -4,7 +4,7 @@
 Hi, I’m Pablo Adell but people also call me Pabs. 💃  - Software Engineer at @Affirm
 <p>Normally I would tell you my hobbies, what I like, my years of experience ... but I would rather say that I am really into motorbikes 🏍️. What is life if you can't rush it a bit? 😜</p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/adell13pablo?style=social)](https://twitter.com/adell13pablo)
+[![Twitter: pabloadell](https://img.shields.io/twitter/follow/adell13pablo?style=social)](https://twitter.com/adell13pablo)
 [![Linkedin: pabloadell](https://img.shields.io/badge/-pabloadell-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-adell-4b0476111/)](https://www.linkedin.com/in/pablo-adell-4b0476111/)
 [![GitHub PabloAdell](https://img.shields.io/github/followers/pabloadell?label=follow&style=social)](https://github.com/pabloadell)
 
